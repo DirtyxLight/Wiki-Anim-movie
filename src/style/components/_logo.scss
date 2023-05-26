@@ -1,0 +1,18 @@
+#main {
+  &__banner-wave {
+    z-index: -1;
+  }
+
+  &__logo {
+    position: absolute;
+    width: 100%;
+    margin: auto;
+    padding-top: 1em;
+    display: flex;
+
+    .logo-studio {
+      width: 50vw;
+      margin: 2em auto;
+    }
+  }
+}

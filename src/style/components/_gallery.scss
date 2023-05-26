@@ -1,0 +1,22 @@
+.gallery {
+  margin: auto;
+
+  &__title {
+    font-size: 2.5em;
+    margin: auto;
+    font-weight: 800;
+    text-decoration: underline;
+    text-underline-offset: 7px;
+    width: fit-content;
+    margin-top: 3em;
+    margin-bottom: 1.5em;
+  }
+
+  &__films {
+    @include center;
+    flex-direction: row;
+    column-gap: 10em;
+    row-gap: 5em;
+    flex-wrap: wrap;
+  }
+}

@@ -1,0 +1,38 @@
+@font-face {
+  font-family: "font-1";
+  src: url(../../public/fonts/PlayfairDisplay-BoldItalic.otf);
+}
+
+@font-face {
+  font-family: "font-2";
+  src: url(../../public/fonts/PlayfairDisplay-Regular.otf);
+}
+
+$primary-color: rgb(57, 27, 112);
+$secondary-color: #0e7452;
+$white: rgb(243, 243, 243);
+
+body {
+  margin: 0;
+  font-family: "font-1", "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell",
+    "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New";
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+p {
+  letter-spacing: 1px;
+  font-family: "Roboto";
+  text-align: center;
+  margin: 0;
+}

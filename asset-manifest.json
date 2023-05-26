@@ -1,17 +1,18 @@
 {
   "files": {
     "main.css": "/Wiki-Anim-movie/static/css/main.c4d5b1c6.css",
-    "main.js": "/Wiki-Anim-movie/static/js/main.877f8681.js",
+    "main.js": "/Wiki-Anim-movie/static/js/main.7c473830.js",
     "static/js/787.6e2ecede.chunk.js": "/Wiki-Anim-movie/static/js/787.6e2ecede.chunk.js",
     "static/media/PlayfairDisplay-BoldItalic.otf": "/Wiki-Anim-movie/static/media/PlayfairDisplay-BoldItalic.7b871bee314daf17d23c.otf",
     "static/media/PlayfairDisplay-Regular.otf": "/Wiki-Anim-movie/static/media/PlayfairDisplay-Regular.0f36bb0b38b93041d06e.otf",
+    "static/media/ghibli.png": "/Wiki-Anim-movie/static/media/ghibli.6ee3c46dae35cc534be4.png",
     "index.html": "/Wiki-Anim-movie/index.html",
     "main.c4d5b1c6.css.map": "/Wiki-Anim-movie/static/css/main.c4d5b1c6.css.map",
-    "main.877f8681.js.map": "/Wiki-Anim-movie/static/js/main.877f8681.js.map",
+    "main.7c473830.js.map": "/Wiki-Anim-movie/static/js/main.7c473830.js.map",
     "787.6e2ecede.chunk.js.map": "/Wiki-Anim-movie/static/js/787.6e2ecede.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c4d5b1c6.css",
-    "static/js/main.877f8681.js"
+    "static/js/main.7c473830.js"
   ]
 }
